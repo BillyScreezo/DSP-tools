@@ -19,6 +19,9 @@
     1.  Customizable input phase/output pid value width
     2.  Customizable Kp, Ki, Kd, max(Ki*int(e(t)dt))
 
+*   Median filter .sv module
+    1.  Customizable filter size
+
 ## Repository structure
 
 *   [pyModel](./pyModel/)   - python model of PID controller
